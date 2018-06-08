@@ -20,7 +20,7 @@ functional_areas:
 *   Elasticsearch performs quick and advanced searches on products in the product catalog
 *   Elasticsearch analyzers support multiple languages
 *   Supports stop words and synonyms
-*   Indexing does not impact customers until reindex is completed
+*   Indexing does not impact customers until the reindex operation completes
 
 We support Elasticsearch versions 1.4, 1.7, and 2.4. The default version is 1.7. We support Elasticsearch for all environments starting with {{site.data.var.ece}} 2.1 and later. Refer to [Elasticsearch information](http://devdocs.magento.com/guides/v2.1/config-guide/elasticsearch/es-overview.html) to learn more. For {{site.data.var.ece}} 2.0.X, you can use [Solr](http://devdocs.magento.com/guides/v2.0/cloud/project/project-conf-files_services-solr.html).
 
